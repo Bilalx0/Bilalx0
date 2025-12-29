@@ -2,8 +2,11 @@
 
 <div align="center">
   
-### Full-Stack Developer 
+### Full-Stack Web Developer | Co-founder of Rosopak
 
+*Building elegant, responsive web experiences with modern technologies*
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://rosopak.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammmadayan980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-bilal)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/muhammadayan234)
@@ -13,13 +16,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
 I'm a passionate self-taught web developer focused on creating impactful digital solutions. With a strong foundation in modern web technologies, I specialize in building responsive, user-friendly applications that solve real-world problems.
 
 ```javascript
 const bilal = {
-    location: "Pakistan",
+    role: "Co-founder @ Rosopak",
     currentFocus: ["Portfolio Development", "E-commerce Solutions"],
     learning: ["Next.js", "PHP Laravel"],
     openTo: ["Freelance Projects", "Collaborations", "Open Source"],
@@ -27,10 +30,10 @@ const bilal = {
 };
 ```
 
-## 🚀 Current Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Current Projects
 
-- 🎨 **Portfolio Website** - Showcasing my work with modern design principles
-- 🛒 **E-commerce Platform** - Full-stack online shopping experience
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> **Portfolio Website** - Showcasing my work with modern design principles
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="25" height="25" /> **E-commerce Platform** - Full-stack online shopping experience
 
 ## 🤝 Let's Collaborate
 
