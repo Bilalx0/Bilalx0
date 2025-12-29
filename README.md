@@ -85,9 +85,9 @@ I'm actively seeking collaboration opportunities on:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilalx0&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilalx0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalx0&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalx0)
 
 </div>
 
@@ -104,14 +104,6 @@ I'm actively seeking collaboration opportunities on:
 
 Whether you have a project in mind, need technical advice, or just want to connect, feel free to reach out!
 
-**Email:** muhammmadayan980@gmail.com
+**Email:** muhammadbilaal098@gmail.com
 
----
 
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**⭐ From [Muhammad Bilal](https://github.com/Bilalx0)**
-
-</div>
