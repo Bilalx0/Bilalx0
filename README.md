@@ -4,8 +4,6 @@
   
 ### Full-Stack Web Developer | Co-founder of Rosopak
 
-*Building elegant, responsive web experiences with modern technologies*
-
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://rosopak.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammmadayan980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-bilal)
@@ -78,8 +76,7 @@ I'm actively seeking collaboration opportunities on:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
@@ -90,15 +87,6 @@ I'm actively seeking collaboration opportunities on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalx0)
 
 </div>
-
-## 💡 Ask Me About
-
-- **JavaScript & TypeScript** - ES6+, Async Programming, Modern Patterns
-- **React & Next.js** - Hooks, State Management, SSR, Component Architecture
-- **Node.js & Express** - RESTful APIs, Middleware, Authentication
-- **Python & Django** - Backend Development, ORM, Web Frameworks
-- **Tailwind CSS** - Utility-First Design, Responsive Layouts
-- **Docker & Kubernetes** - Containerization, Orchestration, DevOps
 
 ## 📫 Get In Touch
 
