@@ -82,9 +82,9 @@ I'm actively seeking collaboration opportunities on:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilalx0)
+![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Bilalx0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalx0)
+![Top Languages](https://github-contributor-stats.vercel.app/api/top-langs/?username=Bilalx0)
 
 </div>
 
