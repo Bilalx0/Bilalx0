@@ -37,7 +37,7 @@ const bilal = {
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> **Portfolio Website** - Showcasing my work with modern design principles
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Shopping Cart" width="25" height="25" /> **E-commerce Platform** - Full-stack online shopping experience
 
-## 🤝 Let's Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let's Collaborate
 
 I'm actively seeking collaboration opportunities on:
 - Business websites and landing pages
@@ -47,7 +47,7 @@ I'm actively seeking collaboration opportunities on:
 
 **Open to discussing your ideas!**
 
-## 💼 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Rocket" width="35" height="35" /> Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -82,7 +82,7 @@ I'm actively seeking collaboration opportunities on:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Rocket" width="35" height="35" /> GitHub Stats
 
 <div align="center">
   
@@ -92,7 +92,7 @@ I'm actively seeking collaboration opportunities on:
 
 </div>
 
-## 📫 Get In Touch
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Rocket" width="35" height="35" /> Get In Touch
 
 Whether you have a project in mind, need technical advice, or just want to connect, feel free to reach out!
 
