@@ -94,7 +94,7 @@ I'm actively seeking collaboration opportunities on:
 
 <div align="center">
   
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Bilalx0)
+![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Bilalx0&theme=dark)
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilalx0&hide_border=true&theme=dark" />
