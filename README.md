@@ -25,9 +25,6 @@
   </a>
   <a href="https://github.com/Bilalx0?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Bilalx0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Bilalx0/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Bilalx0&style=for-the-badge&color=lightgrey"/>
-  </a>
 </p>
 
 ---
@@ -99,7 +96,7 @@ I'm actively seeking collaboration opportunities on:
   
 ![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Bilalx0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalx0&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://raw.githubusercontent.com/Bilalx0/Bilalx0/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
