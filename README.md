@@ -93,10 +93,13 @@ I'm actively seeking collaboration opportunities on:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Rocket" width="35" height="35" /> GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Bilalx0&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bilalx0&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Bilal's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Bilalx0&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bilalx0&hide_progress=true)
+
 
 </div>
 
