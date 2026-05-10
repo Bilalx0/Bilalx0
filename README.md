@@ -96,7 +96,7 @@ I'm actively seeking collaboration opportunities on:
   
 ![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=Bilalx0&theme=dark)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bilalx0&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
