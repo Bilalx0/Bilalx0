@@ -96,10 +96,6 @@ I'm actively seeking collaboration opportunities on:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bilalx0&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Bilal's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Bilalx0&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bilalx0&hide_progress=true)
-
 
 </div>
 
