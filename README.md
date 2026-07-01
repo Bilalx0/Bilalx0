@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Full-Stack Web Developer | Co-founder of Rosopak
+### Full Stack Developer | Co-founder of Rosopak
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://rosopak.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammmadbilaal098@gmail.com)
