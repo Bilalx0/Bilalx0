@@ -35,11 +35,10 @@ I'm a passionate full stack web developer focused on creating impactful digital 
 
 ```javascript
 const bilal = {
-    role: "Co-founder @ Rosopak",
-    currentFocus: ["Freelancing", "Communication", "Real World Projects"],
+    role: "Full Stack Developer",
+    currentFocus: ["Projects Hunting", "Communication"],
     learning: ["Nest Js", "Laravel"],
-    openTo: ["Freelance Projects", "Collaborations", "Open Source"],
-    personality: "Serious, Silent, Solution-Oriented"
+    openTo: ["Freelance Projects", "Collaborations", "Open Source"]
 };
 ```
 
