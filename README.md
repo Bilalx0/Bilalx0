@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Full Stack Developer | Co-founder of Rosopak
+### Junior Software Developer | Co-founder of Rosopak
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://rosopak.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammmadbilaal098@gmail.com)
@@ -35,8 +35,8 @@ I'm a passionate full stack web developer focused on creating impactful digital 
 
 ```javascript
 const bilal = {
-    role: "Full Stack Developer",
-    currentFocus: ["Projects Hunting", "Communication"],
+    role: "Junior Software Developer",
+    currentFocus: ["Projects Hunting", "Communication", "SaaS"],
     learning: ["Nest Js", "Laravel"],
     openTo: ["Freelance Projects", "Collaborations", "Open Source"]
 };
