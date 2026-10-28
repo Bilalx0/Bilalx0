@@ -31,7 +31,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-I'm a passionate full stack web developer focused on creating impactful digital solutions. With a strong foundation in modern web technologies, I specialize in building backend systems and user-friendly applications that solve real-world problems.
+I'm a passionate Junior Software Developer focused on creating impactful digital solutions. With a strong foundation in modern web technologies, I specialize in building backend systems and user-friendly applications that solve real-world problems.
 
 ```javascript
 const bilal = {
