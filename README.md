@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### Junior Software Developer | Co-founder of Rosopak
+### Software Developer | Co-founder of Rosopak
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://rosopak.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammmadbilaal098@gmail.com)
@@ -31,11 +31,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-I'm a passionate Junior Software Developer focused on creating impactful digital solutions. With a strong foundation in modern web technologies, I specialize in building backend systems and user-friendly applications that solve real-world problems.
+I'm a passionate Software Developer focused on creating impactful digital solutions. With a strong foundation in modern web technologies, I specialize in building backend systems and user-friendly applications that solve real-world problems.
 
 ```javascript
 const bilal = {
-    role: "Junior Software Developer",
+    role: "Software Developer",
     currentFocus: ["Projects Hunting", "Communication", "SaaS"],
     learning: ["Nest Js", "Laravel"],
     openTo: ["Freelance Projects", "Collaborations", "Open Source"]
